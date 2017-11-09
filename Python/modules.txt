@@ -1,0 +1,18 @@
+AC50001 Introduction to Data Mining
+AC50002 Programming Languages for Data Engineering
+AC51001 Internet and Computer Systems
+AC51002 Software Development
+AC51003 Software Engineering
+AC51004 Agile Engineering
+AC51005 Technology Innovation Management
+AC51007 Computer Vision
+AC51008 Graphics
+AC51009 Multimedia Audio
+AC51010 Computing the User Experience
+AC51011 Big Data Analysis
+AC52001 Database Systems
+AC52002 Advanced Programming Techniques
+AC52008 Research Frontiers (Computing)
+AC52009 Secure Internet Programming
+AC52012 Research Methods
+AC52013 Human Computer Interaction and Usability Engineering
